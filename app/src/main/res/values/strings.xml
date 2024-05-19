@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="privacidad">Acepta los terminos</string>
+    <string name="p1">¿Cree que su Universidad en la mejor de managua?</string>
+    <string name="p2">¿Cree que la calidad de su Universidad es la mejor?</string>
+    <string name="p3">¿Cree que la clases que se imparten le ayudaran a su vida como profesional?</string>
+    <string name="p4">¿Cree que la clase de Programacion Orientada a Objetos le constribuira a su futuro profesional?</string>
+    <string name="p5">¿Considera que hacer la tarea con caracter individual y honesto, me ayudaran en el futuro profesional?</string>
+    <string name="botonEnviar">Enviar</string>
+</resources>
